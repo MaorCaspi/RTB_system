@@ -1,0 +1,62 @@
+{
+  "id": "test1",
+  "tmax": 270,
+  "at": 2,
+  "bcat": [
+    "IAB26",
+    "IAB25",
+    "IAB24"
+  ],
+  "imp": [
+    {
+      "id": "1",
+      "banner": {
+        "w": 320,
+        "h": 480,
+        "battr": [
+          10
+        ],
+        "api": [
+        ]
+      },
+      "bidfloor": 0.69
+    }
+  ],
+  "app": {
+    "id": "1234",
+    "name": "Video Games",
+    "bundle": "www.testapp.com",
+    "cat": [
+      "IAB1"
+    ],
+    "publisher": {
+      "id": "1111"
+    }
+  },
+  "device": {
+    "dnt": 0,
+    "connectiontype": 2,
+    "carrier": "Ellijay Telephone Company",
+    "dpidsha1": "e5f61ae0597d8abee94860d66f7d512aa68d0985",
+    "dpidmd5": "c1827fe90bae819017dfdb30db7e84fa",
+    "didmd5": "1f6cb9dc519db8e48cf9592b31cce04e",
+    "didsha1": "2e6a5d7f5fd1b2b5dea56a80f2b9dc24902a0ca7",
+    "ifa": "422aeb3a-6507-40b5-9e6f-42a0e14b51be",
+    "osv":"4.4",
+    "os": "Android",
+    "ua": "Mozilla/5.0 (Linux; Android 4.4.2; DL1010Q Build/KOT49H) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",
+    "ip": "24.75.160.74",
+    "devicetype": 1,
+    "geo": {
+      "type": 1,
+      "country": "USA",
+      "city": "Jasper"
+    }
+  },
+  "user": {
+    "id": "9c2be7c2a3dfe19070f193910e92b2e0"
+  },
+  "cur": [
+    "USD"
+  ]
+}
